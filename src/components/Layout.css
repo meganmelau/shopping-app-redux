@@ -8,5 +8,15 @@
   margin-right: 50px;
   margin-bottom: 20px;
   margin-top: 1rem;
-  font-size: 20px;
+  font-size: 20px
 }
+.logout-btn {
+  padding: 10px;
+  background: orange;
+  border: none;
+};
+
+.logout-btn:hover {
+  background: navy;
+}
+
